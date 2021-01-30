@@ -43,9 +43,9 @@ void setup()
   
   
 }
-int maxF = -200;
+float maxF = -200;
 long lastMax;
-int minF = 200;
+float minF = 200;
 long lastMin;
 
 void loop()

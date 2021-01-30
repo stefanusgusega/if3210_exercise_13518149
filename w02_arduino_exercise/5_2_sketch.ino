@@ -43,8 +43,8 @@ void setup()
   
   
 }
-int maxF = -200;
-int minF = 200;
+float maxF = -200;
+float minF = 200;
 void loop()
 {
   lcd.setCursor(0,0);           // set cursor to column 0, row 0 (the first row)
